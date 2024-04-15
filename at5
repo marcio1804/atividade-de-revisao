@@ -1,0 +1,1 @@
+ Os construtores são métodos especiais usados para inicializar objetos quando são criados. Eles são importantes para garantir que os objetos sejam criados em um estado consistente. Os métodos em uma classe definem o comportamento dos objetos e permitem que eles executem ações específicas.
