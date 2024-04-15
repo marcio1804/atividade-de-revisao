@@ -1,0 +1,1 @@
+ O acoplamento refere-se à dependência entre diferentes partes do código, enquanto a coesão refere-se à medida em que os elementos de uma classe estão relacionados e trabalham juntos de forma consistente. Na orientação a objetos, é importante manter o acoplamento baixo e a coesão alta para criar código mais flexível, modular e fácil de manter.
