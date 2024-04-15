@@ -1,0 +1,4 @@
+Os modificadores de acesso "public", "private" e "protected" controlam a visibilidade dos membros de uma classe:
+   - "public" permite acesso de qualquer lugar.
+   - "private" restringe o acesso apenas à própria classe.
+   - "protected" permite acesso apenas a classes do mesmo pacote e subclasses.
