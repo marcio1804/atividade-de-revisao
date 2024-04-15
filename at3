@@ -1,0 +1,1 @@
+Encapsulamento é o princípio que permite ocultar os detalhes de implementação de um objeto, expondo apenas uma interface pública para interação. Em linguagens orientadas a objetos, isso é implementado através do uso de modificadores de acesso, como public, private e protected, para controlar o acesso aos membros da classe.
