@@ -1,0 +1,1 @@
+ Métodos estáticos pertencem à classe como um todo e podem ser chamados sem criar uma instância da classe, enquanto métodos de instância pertencem a objetos específicos e só podem ser chamados em uma instância da classe.
